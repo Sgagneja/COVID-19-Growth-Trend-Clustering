@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """
-This file implements a
-CS540 Spring 2020
+This file implements a HAC.
 @Author: Shaan Gagneja
 @Email: sgagneja@wisc.edu
 """
